@@ -7,17 +7,17 @@ Our mission is to provide diving enthusiasts with high-quality content, tools, a
 
 ## Repositories
 
-### 1. [FirebaseFunctions](https://github.com/<organization>/FirebaseFunctions)
+### 1. [FirebaseFunctions](https://github.com/Dipnot-App/FirebaseFunctions)
 - Backend for Dipnot App
 - Cloud Functions for Newsletter subscription, Push notifications, and other backend services
 - TypeScript + Firebase + Jest tests
 
-### 2. [www.dipnot.app](https://github.com/<organization>/www.dipnot.app)
+### 2. [www.dipnot.app](https://github.com/Dipnot-App/www.dipnot.app)
 - Official landing page for Dipnot App
 - Showcases features, articles, and download links
 - Built with HTML, CSS, JS (or framework if used)
 
-### 3. [APP](https://github.com/<organization>/APP)
+### 3. [APP](https://github.com/Dipnot-App/APP)
 - Main mobile application
 - Provides access to diving content, user profiles, and app services
 - Integrates with Firebase backend
@@ -33,9 +33,10 @@ We provide curated articles, guides, and tools for diving enthusiasts, helping t
 
 ## Getting Started
 
-- For backend development, see [FirebaseFunctions](https://github.com/<organization>/FirebaseFunctions)  
-- For website updates, see [www.dipnot.app](https://github.com/<organization>/www.dipnot.app)  
-- For app development, see [APP](https://github.com/<organization>/APP)  
+- For backend development, see [FirebaseFunctions](https://github.com/Dipnot-App/FirebaseFunctions)  
+- For website updates, see [www.dipnot.app](https://github.com/Dipnot-App/www.dipnot.app)
+- For admin panel updates, see [admin.dipnot.app](https://github.com/Dipnot-App/admin.dipnot.app)  
+- For app development, see [APP](https://github.com/Dipnot-App/APP)  
 
 ---
 
