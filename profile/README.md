@@ -17,7 +17,7 @@ Our mission is to provide diving enthusiasts with high-quality content, tools, a
 - Showcases features, articles, and download links
 - Built with HTML, CSS, JS (or framework if used)
 
-### 3. [APP](https://github.com/Dipnot-App/APP)
+### 3. [DipnotAPP](https://github.com/Dipnot-App/DipnotAPP)
 - Main mobile application
 - Provides access to diving content, user profiles, and app services
 - Integrates with Firebase backend
@@ -36,7 +36,7 @@ We provide curated articles, guides, and tools for diving enthusiasts, helping t
 - For backend development, see [FirebaseFunctions](https://github.com/Dipnot-App/FirebaseFunctions)  
 - For website updates, see [www.dipnot.app](https://github.com/Dipnot-App/www.dipnot.app)
 - For admin panel updates, see [admin.dipnot.app](https://github.com/Dipnot-App/admin.dipnot.app)  
-- For app development, see [APP](https://github.com/Dipnot-App/APP)  
+- For app development, see [DipnotAPP](https://github.com/Dipnot-App/DipnotAPP)  
 
 ---
 
