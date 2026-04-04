@@ -22,6 +22,12 @@ Our mission is to provide diving enthusiasts with high-quality content, tools, a
 - Provides access to diving content, user profiles, and app services
 - Integrates with Firebase backend
 
+### 4. [app.dipnot.app](https://github.com/Dipnot-App/app.dipnot.app)
+- Universal Links and App Links host for Dipnot App
+- Serves `apple-app-site-association` for iOS deep linking
+- Serves `.well-known/assetlinks.json` for Android deep linking
+- Deployed via Vercel at [app.dipnot.app](https://app.dipnot.app)
+
 ---
 
 ## About Dipnot App
